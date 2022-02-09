@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerContacts</string>
+    <string name="button_start">Start</string>
+    <string name="button_final">End</string>
+</resources>
